@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use this publication, please cite it
+  using the metadata provided here.
+
+type: report
+
+title: >-
+  Validated-by-Design for AI:
+  Proving Control of AI in GxP, Continuously
+
+authors:
+  - family-names: Schmidt
+    given-names: Steven
+    family-names: Tulluri
+    given-names: Gupta
+
+version: 1.0.0
+license: CC-BY-4.0
+
+abstract: >-
+  This whitepaper series explores risk-based governance,
+  validation, human oversight and continuous assurance
+  for artificial intelligence in regulated GxP environments.
+
+keywords:
+  - Artificial Intelligence
+  - GxP
+  - AI Governance
+  - Computer System Validation
+  - Continuous Assurance
+  - Human Oversight
+  - Regulated Industries

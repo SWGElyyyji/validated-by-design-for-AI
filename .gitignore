@@ -1,0 +1,31 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# Microsoft Office temporary files
+~$*
+
+# Local working folders
+drafts/
+working/
+private/
+temp/
+tmp/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local logs
+*.log
