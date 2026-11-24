@@ -1,0 +1,21 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 901512f..4901599 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -23,14 +23,14 @@[m [mThe central message is:[m
+ Paper 1 introduces the vision, governance principles, risk-based classification approach, and operating model for managing AI in regulated GxP environments. It explores how organisations can establish accountability, define appropriate levels of human oversight, and generate trustworthy evidence throughout the AI lifecycle.[m
+ [m
+ **Authors:** Steven Schmidt and Gupta Tulluri  [m
+[31m-**Version:** v1.0.0  [m
+[32m+[m[32m**Version:** v1.0.1[m[41m  [m
+ **License:** [CC BY 4.0](LICENSE)  [m
+ **Release date:** 24 November 2026  [m
+ **Status:** Published[m
+ [m
+ **Read Paper 1**[m
+ [m
+[31m-[Download Paper 1 - Vision & Operating Model](releases/v1.0.0/validated-by-design-for-ai-book-1-v1.0.0.pdf?raw=true)[m
+[32m+[m[32m[Download v1.0.1 - Vision & Operating Model](releases/v1.0.1/validated-by-design-for-ai-book-1-v1.0.1.pdf?raw=true)[m
+ [m
+ The PDF is the canonical edition of Paper 1.[m
+ [m

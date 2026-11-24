@@ -9,6 +9,11 @@ $releases = @(
         Version = "v1.0.0"
         Book = "1"
         Pdf = "validated-by-design-for-ai-book-1-v1.0.0.pdf"
+    },
+    @{
+        Version = "v1.0.1"
+        Book = "1"
+        Pdf = "validated-by-design-for-ai-book-1-v1.0.1.pdf"
     }
 )
 
