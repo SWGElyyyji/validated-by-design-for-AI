@@ -53,7 +53,7 @@ foreach ($release in $releases) {
 
         $checksumText = Get-Content -LiteralPath $checksumPath -Raw
 
-        $escapedPdfName = [regex]::Escape($pdfName)
+ $escapedPdfName = [regex]::Escape($pdfName)
 
         $checksumPattern = "(?im)^\s*([A-Fa-f0-9]{64})\s+\*?$escapedPdfName\s*$"
 
