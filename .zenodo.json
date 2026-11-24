@@ -2,10 +2,13 @@
   "title": "Validated-by-Design for AI: Proving Control of AI in GxP, Continuously",
   "description": "A whitepaper series exploring risk-based AI governance, validation, human oversight and continuous assurance in regulated GxP environments.",
   "creators": [
-    {
-      "name": "Schmidt, Steven"
-    }
-  ],
+  {
+    "name": "Schmidt, Steven"
+  },
+  {
+    "name": "Tulluri, Gupta"
+  }
+],
   "keywords": [
     "Artificial Intelligence",
     "GxP",

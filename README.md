@@ -1,146 +1,139 @@
-Validated-by-Design for AI
-Proving Control of AI in GxP, Continuously
-A three-part whitepaper series on governing, validating and continuously assuring AI in regulated GxP environments.
+# Validated-by-Design for AI
 
-Overview
-Artificial intelligence introduces new opportunities for regulated industries, but also new challenges for governance, validation, human oversight and lifecycle assurance.
+## Proving Control of AI in GxP, Continuously
 
-Traditional computerised system validation remains essential. However, AI introduces additional complexity through probabilistic behaviour, changing data dependencies, model updates and increasingly autonomous agents.
+**A three-part whitepaper series**
 
-Validated-by-Design for AI explores how organisations can establish risk-based controls and produce trustworthy evidence throughout the AI lifecycle.
+Steven Schmidt and Gupta Tulluri
 
-The objective is not to eliminate validation or replace Quality oversight.
+Artificial intelligence introduces new opportunities for regulated industries, but also new challenges for governance, validation, human oversight, and lifecycle assurance. Unlike traditional deterministic systems, AI can introduce probabilistic behaviour, changing data dependencies, model updates, and increasingly autonomous decision-making.
 
-It is to make control, traceability and assurance integral characteristics of AI-enabled systems.
+Validated-by-Design for AI explores a risk-based approach that integrates governance, traceability, human oversight, and continuous assurance throughout the AI lifecycle while preserving regulatory accountability and Quality oversight.
 
-Core Principle
-Classify before you build. Lock what must be locked. Prove the model and the human continuously.
+The central message is:
 
-The Whitepaper Series
-The series consists of three complementary publications.
+> Classify before you build. Lock what must be locked. Prove the model and the human continuously.
 
-Book 1: Vision & Operating Model
-Introduces the strategic challenge of AI in GxP environments.
+---
 
-Topics include:
+## Whitepaper Series
 
-AI adoption in regulated environments
-Risk-based classification of AI use cases
-Governance and accountability
-Human oversight
-AI autonomy and decision rights
-A continuous assurance operating model
-Book 2: Technical Reference Architecture
-Explores how AI governance and assurance can be implemented through technical architecture.
+### Paper 1 — Vision & Operating Model
 
-Topics include:
+**Proving Control of AI in GxP, Continuously**
 
-AI system architecture
-Model and agent lifecycle controls
-Identity and access management
-Policy enforcement
-Traceability and evidence generation
-Monitoring and change control
-Human approval mechanisms
-Book 3: Regulatory & Implementation Guide
-Explores regulatory considerations and a practical implementation approach.
+Paper 1 introduces the vision, governance principles, risk-based classification approach, and operating model for managing AI in regulated GxP environments. It explores how organisations can establish accountability, define appropriate levels of human oversight, and generate trustworthy evidence throughout the AI lifecycle.
 
-Topics include:
+**Authors:** Steven Schmidt and Gupta Tulluri
+**Version:** v1.0.0  
+**License:** See LICENSE  
+**Status:** Release preparation
 
-GxP regulatory considerations
-AI risk classification
-Validation and assurance strategies
-Human oversight evidence
-Inspection readiness
-Implementation roadmap
-Governance and operational controls
-Publications
+**Read Paper 1**
 
-### Book 1: Vision & Operating Model
+releases/v1.0.0/validated-by-design-for-ai-book-1-v1.0.0.pdf
 
-**Version:** 1.0.0
+The PDF is the canonical edition of Paper 1.
 
-**Status:** Published
+---
 
-Book 1 introduces the strategic and organisational
-foundations for governing AI in regulated GxP
-environments.
+### Paper 2 — Technical Reference Architecture
 
-It explores risk-based classification, governance,
-human oversight, accountability and continuous
-assurance throughout the AI lifecycle.
+**Validated-by-Design for AI — Technical Reference Architecture**
 
-**Download the Whitepaper**
+Paper 2 provides the technical depth for architects, AI engineers, platform teams, and Quality organisations. It translates the governance and assurance principles into architecture patterns covering model and agent lifecycle controls, identity, policy enforcement, monitoring, traceability, and evidence generation.
 
-[Download Book 1: Vision & Operating Model (PDF)](releases/v1.0.0/validated-by-design-for-ai-book-1-v1.0.0.pdf)
+**Authors:** To be confirmed  
+**Version:** To be announced  
+**Status:** Planned
 
-**Release Information**
+**Read Paper 2**
 
-releases/v1.0.0/RELEASE-NOTES.md
+Publication forthcoming.
 
-Book 2
-Technical Reference Architecture
+---
 
-Status: Planned publication
+### Paper 3 — Regulatory & Implementation Guide
 
-Book 3
-Regulatory & Implementation Guide
+**Validated-by-Design for AI — Regulatory & Implementation Guide**
 
-Status: Planned publication
+Paper 3 explores the regulatory considerations and practical implementation of AI governance and continuous assurance in GxP environments. It addresses risk-based validation strategies, human oversight, change control, inspection readiness, and organisational adoption.
 
-Authors
-Steven Schmidt
+**Authors:** To be confirmed  
+**Version:** To be announced  
+**Status:** Planned
 
-Additional authors will be listed following confirmation of the publication metadata.
+**Read Paper 3**
 
-Relationship to Validated-by-Design
-This series extends the concepts introduced in the original Validated-by-Design whitepaper series.
+Publication forthcoming.
 
-The original series explores a shift-left approach to Computer System Validation for cloud-native GxP platforms.
+---
 
-Validated-by-Design for AI applies related principles to AI models, AI-enabled systems and autonomous agents.
+## Core Principles
 
-Original series:
+Validated-by-Design for AI builds on five complementary principles:
+
+1. **Risk-Based Classification**  
+   Classify AI use cases according to their intended use, impact, and risk before implementation.
+
+2. **Governance by Design**  
+   Embed accountability, policies, and control mechanisms into the AI lifecycle.
+
+3. **Controlled Change**  
+   Establish appropriate controls for models, data, configurations, and autonomous behaviour.
+
+4. **Human Oversight**  
+   Define human responsibilities, intervention mechanisms, and decision rights.
+
+5. **Continuous Assurance**  
+   Maintain traceability and evidence throughout development, deployment, operation, and controlled change.
+
+---
+
+## Relationship to Validated-by-Design
+
+This whitepaper series extends the principles of the original **Validated-by-Design** publication.
+
+The original series introduced a Shift-Left approach to Computer System Validation for cloud-native GxP platforms.
+
+Validated-by-Design for AI builds on this foundation and explores how similar principles can support the governance, validation, and continuous assurance of AI-enabled systems and autonomous agents.
+
+**Original Whitepaper Series**
 
 https://github.com/corradoi/validated-by-design
 
-Repository Structure
-releases/ - Versioned publication packages
-scripts/ - Publication verification
-.github/workflows/ - Automated GitHub checks
-index.html - Public landing page
-CITATION.cff - Citation metadata
-.zenodo.json - Archival metadata
-PUBLISHING.md - Publication procedure
-Versioning
-Each publication receives a versioned release.
+---
 
-The initial publication is planned as:
+## Publication and Versioning
 
-v1.0.0
+Each published paper is provided as a versioned PDF with accompanying release notes and a SHA-256 checksum.
 
-Each release package includes:
+Published versions are retained to support traceability and reproducibility.
 
-Canonical PDF
-Release notes
-SHA-256 checksum
-Published versions are retained to preserve traceability.
+The canonical publication files are maintained in the `releases/` directory.
 
-Citation
-Please use the citation metadata provided in CITATION.cff.
+For details about the publication process, see PUBLISHING.md.
 
-A DOI will be added after successful archival, if Zenodo publication is enabled.
+---
 
-Disclaimer
+## Citation
+
+Please use the citation information provided in CITATION.cff.
+
+A DOI may be added following successful archival of the publication.
+
+---
+
+## License
+
+See LICENSE for the applicable usage rights.
+
+---
+
+## Disclaimer
+
 This publication reflects the authors' perspectives and does not necessarily represent the official positions of their employers or affiliated organisations.
 
-The content is provided for informational purposes.
+The content is provided for informational purposes and does not constitute legal, regulatory, or quality-system advice.
 
-It does not constitute legal, regulatory or quality-system advice.
-
-References to technologies, architectures or services do not establish regulatory compliance.
-
-Regulated organisations remain responsible for their own risk assessments, validation activities, quality decisions and regulatory obligations.
-
-License
-See the LICENSE file for applicable usage rights.
+Regulated organisations remain responsible for their own risk assessments, validation activities, Quality decisions, and regulatory obligations.
