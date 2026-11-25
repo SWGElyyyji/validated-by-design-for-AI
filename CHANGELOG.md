@@ -3,6 +3,21 @@
 All notable changes to the Validated-by-Design for AI
 whitepaper series are documented here.
 
+## [1.0.2]
+
+### Corrective Update
+
+- Updated and corrected the Book 1 whitepaper content.
+- Supersedes v1.0.1 as the recommended edition.
+- Previous releases remain available for traceability.
+
+## [1.0.1]
+
+### Corrective Update
+
+- Corrected an error in the original v1.0.0 Book 1 publication.
+- Superseded by v1.0.2.
+
 ## [1.0.0] - 2026-11-24
 
 ### Initial Publication

@@ -23,14 +23,14 @@ The central message is:
 Paper 1 introduces the vision, governance principles, risk-based classification approach, and operating model for managing AI in regulated GxP environments. It explores how organisations can establish accountability, define appropriate levels of human oversight, and generate trustworthy evidence throughout the AI lifecycle.
 
 **Authors:** Steven Schmidt and Gupta Tulluri  
-**Version:** v1.0.1  
+**Version:** v1.0.2  
 **License:** [CC BY 4.0](LICENSE)  
 **Release date:** 24 November 2026  
 **Status:** Published
 
 **Read Paper 1**
 
-[Download v1.0.1 - Vision & Operating Model](releases/v1.0.1/validated-by-design-for-ai-book-1-v1.0.1.pdf?raw=true)
+[Download v1.0.2 - Vision & Operating Model](releases/v1.0.2/validated-by-design-for-ai-book-1-v1.0.2.pdf?raw=true)
 
 The PDF is the canonical edition of Paper 1.
 
